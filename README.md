@@ -2,8 +2,6 @@
 
 Find cheapest flights between two cities. Used [datasets](https://openflights.org/data.html) 
 
-# Getting Started
-
 ### Run application
 
 ```
